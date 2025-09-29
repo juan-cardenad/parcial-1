@@ -1,3 +1,4 @@
+#
 class Trayecto:
     def __init__(self, origen="", destino="", valor_pasaje=0):
         self.origen = origen

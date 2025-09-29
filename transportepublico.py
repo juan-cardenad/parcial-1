@@ -22,3 +22,4 @@ class MotoTaxi(Vehiculotransportepublico):
         self.tipo = "MotoTaxi"
 
 
+#
